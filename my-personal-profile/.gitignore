@@ -1,6 +1,3 @@
-root folder
-.gitignore
- 
 # Python
 backend/__pycache__/
 backend/venv/
@@ -13,4 +10,5 @@ frontend/.env
  
 # System
 .DS_Store
+
  
